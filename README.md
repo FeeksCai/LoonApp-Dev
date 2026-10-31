@@ -15,6 +15,7 @@ My first repository
 > "The person who gives up is the one who loses."
 
 ### Doraemon
+![alt text](image.jpg)
 **Doraemon** is my favorite comedy and science-fiction anime.
 *It teaches friendship, kindness, and creativity.*
 > "You can do it if you try."
