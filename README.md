@@ -28,12 +28,13 @@ My first repository
 > "Power comes in response to a need, not a desire."
 
 ### Pokemon
-![Pokemon](image.jpg)
+![Pokemon](https://raw.githubusercontent.com/FeeksCai/LoonApp-Dev/refs/heads/main/Pokemon.jfif)
 **Pokemon** is one of my favorite adventure anime series.
 *It teaches teamwork, determination, and sportsmanship.*
 > "Gotta catch 'em all!"
 
 ### Knock-Out
+![Knock-Out](image.jpg)
 **Knock-Out** is one of my favorite sports series.
 *It shows the value of hard work, discipline, and perseverance.*
 > "Champions are made through dedication and practice."
