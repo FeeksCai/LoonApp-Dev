@@ -9,6 +9,7 @@ My first repository
 5. Knock-out
 
 ### Slam Dunk
+![Slam-Dunk](https://github.com/FeeksCai/LoonApp-Dev/blob/main/Slam-Dunk.jpg?raw=true)
 **Slam Dunk** is my favorite basketball anime.
 *It inspires me to work hard and never give up.*
 > "The person who gives up is the one who loses."
