@@ -16,17 +16,19 @@ My first repository
 
 ### Doraemon
 ![Doraemon](https://github.com/FeeksCai/LoonApp-Dev/blob/main/Doraemon.webp?raw=true)
+
 **Doraemon** is my favorite comedy and science-fiction anime.
 *It teaches friendship, kindness, and creativity.*
 > "You can do it if you try."
 
 ### Dragon Ball
-![Dragon Ball](image.jpg)
+![Dragon Ball](https://raw.githubusercontent.com/FeeksCai/LoonApp-Dev/refs/heads/main/Dragonball.avif)
 **Dragon Ball** is my favorite action anime.
 *It inspires me to become stronger and never give up on my goals.*
 > "Power comes in response to a need, not a desire."
 
 ### Pokemon
+![Pokemon](image.jpg)
 **Pokemon** is one of my favorite adventure anime series.
 *It teaches teamwork, determination, and sportsmanship.*
 > "Gotta catch 'em all!"
