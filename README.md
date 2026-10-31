@@ -15,12 +15,13 @@ My first repository
 > "The person who gives up is the one who loses."
 
 ### Doraemon
-![Doraemon](image.jpg)
+![Doraemon](https://github.com/FeeksCai/LoonApp-Dev/blob/main/Doraemon.webp?raw=true)
 **Doraemon** is my favorite comedy and science-fiction anime.
 *It teaches friendship, kindness, and creativity.*
 > "You can do it if you try."
 
 ### Dragon Ball
+![Dragon Ball](image.jpg)
 **Dragon Ball** is my favorite action anime.
 *It inspires me to become stronger and never give up on my goals.*
 > "Power comes in response to a need, not a desire."
