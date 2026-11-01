@@ -60,12 +60,10 @@ is a Japanese anime that follows Ash Ketchum, a young Pokémon Trainer who dream
 is an anime that centers on the world of boxing and competitive fighting. It follows a young boxer who trains hard to improve his skills and achieve his dreams in the ring. The story highlights determination, discipline, and perseverance in overcoming challenges. The anime features intense matches, personal growth, and inspiring moments. Knock Out showcases the importance of hard work and never giving up on one's goals.
 
 
-
-**OTHER INFORMATION ABOUT THE 5 ANIME I LIST**
-
+## OTHER INFORMATION ABOUT THE 5 ANIME I LIST
 
 | Anime | Year Published/Aired | Author/Creator | Genre | Purpose/Theme | Description |
-|-------|---------------------|---------------|--------|---------------|-------------|
+|--------|--------|--------|--------|--------|--------|
 | Slam Dunk | 1993 | Takehiko Inoue | Sports, Comedy, Drama | Teamwork, perseverance, sportsmanship | Follows Hanamichi Sakuragi, a delinquent who joins a high school basketball team and develops a passion for basketball. |
 | Doraemon | 1979 | Fujiko F. Fujio | Science Fiction, Comedy, Adventure | Friendship, responsibility, problem-solving | A robotic cat from the future helps Nobita Nobi with futuristic gadgets that lead to exciting and funny adventures. |
 | Dragon Ball | 1986 | Akira Toriyama | Action, Adventure, Fantasy, Martial Arts | Courage, self-improvement, determination | Follows Goku's adventures as he trains, battles powerful enemies, and searches for the Dragon Balls. |
