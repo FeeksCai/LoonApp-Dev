@@ -61,12 +61,11 @@ is an anime that centers on the world of boxing and competitive fighting. It fol
 
 
 ## OTHER INFORMATION ABOUT THE 5 ANIME I LIST
-
-| Anime | Year Published/Aired | Author/Creator | Genre | Purpose/Theme | Description |
-|--------|--------|--------|--------|--------|--------|
-| Slam Dunk | 1993 | Takehiko Inoue | Sports, Comedy, Drama | Teamwork, perseverance, sportsmanship | Follows Hanamichi Sakuragi, a delinquent who joins a high school basketball team and develops a passion for basketball. |
-| Doraemon | 1979 | Fujiko F. Fujio | Science Fiction, Comedy, Adventure | Friendship, responsibility, problem-solving | A robotic cat from the future helps Nobita Nobi with futuristic gadgets that lead to exciting and funny adventures. |
-| Dragon Ball | 1986 | Akira Toriyama | Action, Adventure, Fantasy, Martial Arts | Courage, self-improvement, determination | Follows Goku's adventures as he trains, battles powerful enemies, and searches for the Dragon Balls. |
-| Pokémon | 1997 | Satoshi Tajiri | Adventure, Fantasy, Comedy | Friendship, teamwork, achieving dreams | Ash Ketchum and Pikachu travel through different regions to catch Pokémon and compete in tournaments. |
-| Hajime no Ippo (Knock Out/Fighting Spirit) | 2000 | George Morikawa | Sports, Action, Comedy | Hard work, discipline, perseverance | Chronicles the journey of Ippo Makunouchi as he works to become a successful boxer. |
-
+ 
+| Anime | Year Published/Aired | Author/Creator | Genre | Purpose/Theme |
+|--------|--------|--------|--------|--------|
+| Slam Dunk | 1993 | Takehiko Inoue | Sports, Comedy, Drama | Teamwork, perseverance, sportsmanship |
+| Doraemon | 1979 | Fujiko F. Fujio | Science Fiction, Comedy, Adventure | Friendship, responsibility, problem-solving |
+| Dragon Ball | 1986 | Akira Toriyama | Action, Adventure, Fantasy, Martial Arts | Courage, self-improvement, determination |
+| Pokémon | 1997 | Satoshi Tajiri | Adventure, Fantasy, Comedy | Friendship, teamwork, achieving dreams |
+| Hajime no Ippo (Knock Out/Fighting Spirit) | 2000 | George Morikawa | Sports, Action, Comedy | Hard work, discipline, perseverance |
