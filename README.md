@@ -62,6 +62,8 @@ is an anime that centers on the world of boxing and competitive fighting. It fol
 
 
 **OTHER INFORMATION ABOUT THE 5 ANIME I LIST**
+
+
 | Anime | Year Published/Aired | Author/Creator | Genre | Purpose/Theme | Description |
 |-------|---------------------|---------------|--------|---------------|-------------|
 | Slam Dunk | 1993 | Takehiko Inoue | Sports, Comedy, Drama | Teamwork, perseverance, sportsmanship | Follows Hanamichi Sakuragi, a delinquent who joins a high school basketball team and develops a passion for basketball. |
