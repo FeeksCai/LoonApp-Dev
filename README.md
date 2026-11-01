@@ -18,11 +18,11 @@ My first repository
 is a Japanese sports anime based on the manga by Takehiko Inoue. It follows Hanamichi Sakuragi, a delinquent high school student who joins the Shohoku High School basketball team despite having no experience in the sport. As he learns the game, he develops his skills and passion for basketball while helping his team compete against strong opponents. The anime features exciting matches, character development, teamwork, and determination. Slam Dunk is widely regarded as one of the greatest basketball anime of all time.
 
 ### Doraemon
-![Doraemon](https://github.com/FeeksCai/LoonApp-Dev/blob/main/Doraemon.webp?raw=true) 
+![Doraemon](https://github.com/FeeksCai/LoonApp-Dev/blob/main/Doraemon.webp?raw=true)
+
 **Doraemon** is my favorite comedy and science-fiction anime.
 *It teaches friendship, kindness, and creativity.*
 > “Each and every one of them can come true! With his mysterious pocket, he’ll make all your dreams come true!”
-
 **Doraemon** 
 is a Japanese anime about a robotic cat named Doraemon who travels from the future to help a young boy named Nobita Nobi. Doraemon uses futuristic gadgets from his four-dimensional pocket to solve Nobita’s everyday problems. However, their plans often lead to funny and unexpected situations. The anime focuses on friendship, family, adventure, and life lessons. Doraemon is one of the most popular and beloved children's anime series in the world.
 
