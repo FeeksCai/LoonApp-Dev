@@ -7,7 +7,6 @@ My first repository
 3. Dragon Ball
 4. Pokemon
 5. Knock-out
-   
 
 ### Slam Dunk
 ![Slam-Dunk](https://github.com/FeeksCai/LoonApp-Dev/blob/main/Slam-Dunk.jpg?raw=true)
@@ -18,7 +17,6 @@ My first repository
 **Slam Dunk**
 is a Japanese sports anime based on the manga by Takehiko Inoue. It follows Hanamichi Sakuragi, a delinquent high school student who joins the Shohoku High School basketball team despite having no experience in the sport. As he learns the game, he develops his skills and passion for basketball while helping his team compete against strong opponents. The anime features exciting matches, character development, teamwork, and determination. Slam Dunk is widely regarded as one of the greatest basketball anime of all time.
 
-
 ### Doraemon
 ![Doraemon](https://github.com/FeeksCai/LoonApp-Dev/blob/main/Doraemon.webp?raw=true)
 **Doraemon** is my favorite comedy and science-fiction anime.
@@ -27,7 +25,6 @@ is a Japanese sports anime based on the manga by Takehiko Inoue. It follows Hana
 
 **Doraemon** 
 is a Japanese anime about a robotic cat named Doraemon who travels from the future to help a young boy named Nobita Nobi. Doraemon uses futuristic gadgets from his four-dimensional pocket to solve Nobita’s everyday problems. However, their plans often lead to funny and unexpected situations. The anime focuses on friendship, family, adventure, and life lessons. Doraemon is one of the most popular and beloved children's anime series in the world.
-
 
 ### Dragon Ball
 ![Dragon Ball](https://raw.githubusercontent.com/FeeksCai/LoonApp-Dev/refs/heads/main/Dragonball.avif)
@@ -38,7 +35,6 @@ is a Japanese anime about a robotic cat named Doraemon who travels from the futu
 **Dragon Ball**
 is a Japanese anime created by Akira Toriyama. It follows the adventures of Son Goku, a powerful fighter who trains to become stronger and protect the Earth from various enemies. Along his journey, Goku meets many friends and rivals while searching for the magical Dragon Balls. The anime is known for its intense battles, powerful transformations, and exciting adventures. Dragon Ball is one of the most influential and popular anime series worldwide.
 
-
 ### Pokemon
 ![Pokemon](https://raw.githubusercontent.com/FeeksCai/LoonApp-Dev/refs/heads/main/Pokemon.jfif)
 **Pokemon** is one of my favorite adventure anime series.
@@ -47,7 +43,6 @@ is a Japanese anime created by Akira Toriyama. It follows the adventures of Son 
 
 **Pokémon**
 is a Japanese anime that follows Ash Ketchum, a young Pokémon Trainer who dreams of becoming a Pokémon Master. Together with his partner Pikachu, he travels to different regions, catches Pokémon, and competes in battles and tournaments. The series focuses on friendship, teamwork, and adventure. Throughout his journey, Ash meets many friends and challenges that help him grow as a trainer. Pokémon is one of the most successful and well-known anime franchises in the world.
-
 
 ### Knock-Out
 ![Knock-Out](https://github.com/FeeksCai/LoonApp-Dev/blob/main/KnockOut.webp?raw=true)
@@ -58,7 +53,6 @@ is a Japanese anime that follows Ash Ketchum, a young Pokémon Trainer who dream
 
 **Knock Out**
 is an anime that centers on the world of boxing and competitive fighting. It follows a young boxer who trains hard to improve his skills and achieve his dreams in the ring. The story highlights determination, discipline, and perseverance in overcoming challenges. The anime features intense matches, personal growth, and inspiring moments. Knock Out showcases the importance of hard work and never giving up on one's goals.
-
 
 ## OTHER INFORMATION ABOUT THE 5 ANIME I LIST
  
